@@ -1,5 +1,10 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h1>Hi there 👋</h1>
+</div> 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500"/>
+</div>
 <!--
 **HagarMostafa/HagarMostafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
