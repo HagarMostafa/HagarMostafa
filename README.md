@@ -15,7 +15,7 @@ I'm Hager Zeyada, a versatile software developer and data analyst who is passion
 
 - :computer: I actively explore new technologies and stay updated with the latest industry trends.
 
-- :alarm_clock: In my free time, I solve problems on LeetCode and some times play video games :grin:.
+- :alarm_clock: In my free time, I solve problems on LeetCode and sometimes play video games :grin:
 
 - :email: How to reach me: You can always contact me on 
 </div>
