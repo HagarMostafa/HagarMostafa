@@ -1,8 +1,7 @@
 <div id="header" align="center">
-  <h1>Hey there 👋
-    <br>
-    Welcome to my GitHub profile</h1>
+  <h1>Hey there! Welcome to my GitHub profile 👋</h1>
 </div>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500"/>
