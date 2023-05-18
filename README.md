@@ -26,6 +26,10 @@ I'm a versatile software developer and data analyst, passionate about leveraging
     <a href="https://www.linkedin.com/in/hager-zeyada-a25429a7/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="hagarm34@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="GMmail Badge"/>
+    </a>
+  
  </div>
   
 
