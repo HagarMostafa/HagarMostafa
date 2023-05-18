@@ -8,7 +8,7 @@
 
 ## :woman_technologist: $\textcolor{yellow}{About\ me\}$
 <div>
-I'm a versatile software developer and data analyst, passionate about leveraging technology to solve complex problems and extract valuable insights from data
+I'm Hager Zeyada, a versatile software developer and data analyst who is passionate about leveraging technology to solve complex problems and extract valuable insights from data
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
 - :bulb: With a strong foundation in programming, statistics, and data visualization, I'm dedicated to creating innovative solutions that drive meaningful impact.
