@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500"/>
 </div>
 
-## :woman_technologist: $\textcolor{yellow}{About\ me\}$
+## :woman_technologist: $\textcolor{purple}{About\ me\}$
 <div>
 I'm Hager Zeyada, a versatile software developer and data analyst who is passionate about leveraging technology to solve complex problems and extract valuable insights from data
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -30,7 +30,7 @@ I'm Hager Zeyada, a versatile software developer and data analyst who is passion
     </a> 
  </div>
  
- ## :memo: $\textcolor{yellow}{Skills\}$
+ ## :memo: $\textcolor{purple}{Skills\}$
 <div>
   
   <img align="left" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" height="200"/>
